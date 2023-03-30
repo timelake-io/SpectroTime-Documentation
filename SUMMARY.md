@@ -18,7 +18,7 @@
   * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
   * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
 
-## Use Cases
+## Legal
 
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [Privacy Policy](legal/privacy-policy.md)
+* [🖥 For Developers](legal/for-developers.md)
