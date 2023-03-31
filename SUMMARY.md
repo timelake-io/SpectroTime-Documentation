@@ -21,4 +21,4 @@
 ## Legal
 
 * [Privacy Policy](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [Terms and Conditions](legal/terms-and-conditions.md)
